@@ -1,0 +1,75 @@
+body{
+    font-family: 'Jost', sans-serif;
+    color: grey;
+}
+
+#dlm{
+    font-size: 20pt;
+}
+
+.d{
+    font-family: 'Dancing Script', cursive;
+    font-size: 100;
+}
+
+header h1{
+    font-size: 40pt;
+}
+
+header{
+    background-image: url('../img/dleal-1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 737px;
+}
+
+#sobre h3{
+    color: rgb(80, 80, 80);
+}
+
+#experiencia h1{
+    color: rgb(80, 80, 80);
+}
+
+#experiencia h4{
+    color: rgb(0, 109, 136);
+}
+
+#trabajos h1{
+    color: white;
+}
+
+#trabajos h5{
+    color: rgb(80, 80, 80);
+}
+
+.icons {
+    font-size: 52px;
+}
+  
+.carousel-indicators li{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin: 10px;
+    margin-bottom: 0;
+    text-indent: 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: #0098a3; 
+  }
+
+footer h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50pt;
+}
+
+footer i{
+    margin: 0 0.25em 0.5em 0.25em;
+}
+
+footer{
+    padding: 40px;
+}
